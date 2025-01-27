@@ -1,0 +1,2 @@
+# Remove the nested src folders
+rm -rf src/app/src
